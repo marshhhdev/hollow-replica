@@ -8,9 +8,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-.container {
-    align-items: center;
-    display: flex;
-    text-align: center;
+#titulo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 15vh;
     }
+#paragrafo{
+    display: flex;
 }
